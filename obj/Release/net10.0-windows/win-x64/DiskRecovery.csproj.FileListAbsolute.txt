@@ -1,0 +1,14 @@
+C:\Users\Omar-Fathy\Desktop\DiskRecovery\bin\Release\net10.0-windows\win-x64\DiskRecovery.exe
+C:\Users\Omar-Fathy\Desktop\DiskRecovery\bin\Release\net10.0-windows\win-x64\DiskRecovery.deps.json
+C:\Users\Omar-Fathy\Desktop\DiskRecovery\bin\Release\net10.0-windows\win-x64\DiskRecovery.runtimeconfig.json
+C:\Users\Omar-Fathy\Desktop\DiskRecovery\bin\Release\net10.0-windows\win-x64\DiskRecovery.dll
+C:\Users\Omar-Fathy\Desktop\DiskRecovery\bin\Release\net10.0-windows\win-x64\DiskRecovery.pdb
+C:\Users\Omar-Fathy\Desktop\DiskRecovery\obj\Release\net10.0-windows\win-x64\DiskRecovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar-Fathy\Desktop\DiskRecovery\obj\Release\net10.0-windows\win-x64\DiskRecovery.AssemblyInfoInputs.cache
+C:\Users\Omar-Fathy\Desktop\DiskRecovery\obj\Release\net10.0-windows\win-x64\DiskRecovery.AssemblyInfo.cs
+C:\Users\Omar-Fathy\Desktop\DiskRecovery\obj\Release\net10.0-windows\win-x64\DiskRecovery.csproj.CoreCompileInputs.cache
+C:\Users\Omar-Fathy\Desktop\DiskRecovery\obj\Release\net10.0-windows\win-x64\DiskRecovery.dll
+C:\Users\Omar-Fathy\Desktop\DiskRecovery\obj\Release\net10.0-windows\win-x64\refint\DiskRecovery.dll
+C:\Users\Omar-Fathy\Desktop\DiskRecovery\obj\Release\net10.0-windows\win-x64\DiskRecovery.pdb
+C:\Users\Omar-Fathy\Desktop\DiskRecovery\obj\Release\net10.0-windows\win-x64\DiskRecovery.genruntimeconfig.cache
+C:\Users\Omar-Fathy\Desktop\DiskRecovery\obj\Release\net10.0-windows\win-x64\ref\DiskRecovery.dll
